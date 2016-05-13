@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Round One]]></title>
         <description><![CDATA[Round One]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/round-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:00:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 13:03:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/round-one/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Steps to Increase the Sharpness of Your Photographs]]></title>
+            <description><![CDATA[<article><h1>5 Steps to Increase the Sharpness of Your Photographs</h1><p>This article gives you five steps you can implement now to help you increase the sharpness of your images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/651c9fc4e014947fc0bea040b8f4b02cc073758b.jpg"></article>]]></description>
+            <link>http://digital-photography-school.com/5-steps-to-increase-the-sharpness-of-your-photographs/</link>
+            <guid isPermaLink="false">6a0b2b7d-ca59-401b-abf3-7d00356a54a7</guid>
+            <pubDate>Fri, 13 May 2016 13:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indica]]></title>
             <description><![CDATA[<article><h1>Indica</h1><p>This is a portrait of Indica shot along the Penobscot River in Maine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/670ba5195d3f988ad90132f62d8d09a3cb7b7df0.jpg"></article>]]></description>
-            <link>undefinedindica/index.html</link>
+            <link>https://thegrid.ai/round-one/indica/index.html</link>
             <guid isPermaLink="false">da2218fb-2a66-42a6-80d2-56bb4ac97870</guid>
             <pubDate>Fri, 13 May 2016 12:59:51 GMT</pubDate>
         </item>
