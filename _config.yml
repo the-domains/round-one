@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.326653036987409
 color:
-  saturation: 0.5390819
+  saturation: 0
   brandStrength: 0.6661830306984484
-  lightness: 0.1510638
+  lightness: 0.493617
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  rhythmicContrast: 0.600259
-typography_spectrum: 0.326653036987409
+  rhythmicContrast: 1
 layout_spectrum: 0.1446809
 name: Round One
