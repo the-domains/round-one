@@ -1,0 +1,14 @@
+layout_spectrum: 0.9402302179951221
+typography_spectrum: 0.326653036987409
+color:
+  brandStrength: 0.6661830306984484
+  lightness: 0.10275102825835347
+  saturation: 0.5390818561427295
+  rhythmicContrast: 0.6002589855343103
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Round One
