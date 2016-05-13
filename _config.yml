@@ -1,14 +1,26 @@
-layout_spectrum: 0.9402302179951221
-typography_spectrum: 0.326653036987409
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5390819
   brandStrength: 0.6661830306984484
-  lightness: 0.10275102825835347
-  saturation: 0.5390818561427295
-  rhythmicContrast: 0.6002589855343103
+  lightness: 0.1510638
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  rhythmicContrast: 0.600259
+typography_spectrum: 0.326653036987409
+layout_spectrum: 0.1446809
 name: Round One
