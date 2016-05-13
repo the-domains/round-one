@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.9510638
 color:
   saturation: 1
   brandStrength: 0.4659574
-  lightness: 0.5170213
+  rhythmicContrast: 1
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  rhythmicContrast: 1
-layout_spectrum: 0.1446809
+  lightness: 0.5170213
+layout_spectrum: 0
 name: Round One
