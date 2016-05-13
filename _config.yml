@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.9510638
 color:
   saturation: 1
   brandStrength: 0.4659574
@@ -21,6 +22,5 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
   lightness: 0.5170213
-typography_spectrum: 0.9510638
-layout_spectrum: 0.4042553
+layout_spectrum: 0.6851064
 name: Round One
