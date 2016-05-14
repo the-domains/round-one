@@ -12,15 +12,15 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.2756546512246132
 color:
-  saturation: 0.9528153177816421
-  brandStrength: 0.08007806236855686
-  lightness: 0.6093204887583852
+  saturation: 0.8295996678061783
+  brandStrength: 0.09607764217071235
+  lightness: 0.3227976425550878
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  rhythmicContrast: 0.2339331607799977
-layout_spectrum: 0.40028807427734137
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  rhythmicContrast: 0.5936769982799888
+layout_spectrum: 0.7002857071347535
 name: Round One
