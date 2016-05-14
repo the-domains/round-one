@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2756546512246132
+typography_spectrum: 0.8138256245292723
 color:
-  saturation: 0.8295996678061783
-  brandStrength: 0.09607764217071235
-  lightness: 0.3227976425550878
+  saturation: 0.8865236372221261
+  brandStrength: 0.25278831529431045
+  lightness: 0.7950112912803888
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  rhythmicContrast: 0.5936769982799888
-layout_spectrum: 0.7002857071347535
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  rhythmicContrast: 0.18126177927479148
+layout_spectrum: 0.7917206799611449
 name: Round One
